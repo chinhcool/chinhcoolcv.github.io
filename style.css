@@ -1,0 +1,17 @@
+body{
+  margin: 0;
+ padding: 0;
+ background: url(https://cdnb.artstation.com/p/assets/images/images/003/204/387/large/jarlan-perez-harvest.jpg?1471016908) ;background-size: cover; 
+}
+
+  .nen{
+    width: 1200px;
+    background: rgba(99, 89, 89, 0.4);
+    padding: 0px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+    /* font-family: 'Century Gothic',sans-serif;    */
+  }
